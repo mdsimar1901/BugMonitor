@@ -44,6 +44,7 @@ View Bug status
 
 
 ## Screenshots
+![Screenshot 2021-12-30 121516](https://user-images.githubusercontent.com/66200713/147728288-23ef962e-d742-4d52-8d50-9d4997d896d0.png)
 ![Uploading 147728204-0457954a-be1e-45b5-8423-ba0c951cd09b.png…]()
 
 

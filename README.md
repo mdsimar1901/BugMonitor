@@ -17,16 +17,16 @@ Module Description
 
 Project Manager/Admin
 
-Admin can add new user or can update the details of the existing user
-Creates the project and assigns them to the employees for completing
-Analyzing the project progress assigned to particular employer
+-Admin can add new user or can update the details of the existing user
+-Creates the project and assigns them to the employees for completing
+-Analyzing the project progress assigned to particular employer
 
 
 Tester
 
-View list of  assigned projects
-Add bug details
-View Bug status
+-View list of  assigned projects
+-Add bug details
+-View Bug status
 
 ## Tech Stack
 
@@ -35,21 +35,16 @@ View Bug status
 **Server:** JDBC,PostGreSQL
 
 
-## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## Screenshots
-![Screenshot 2021-12-30 121516](https://user-images.githubusercontent.com/66200713/147728288-23ef962e-d742-4d52-8d50-9d4997d896d0.png)
+
 ![Screenshot 2021-12-30 121448](https://user-images.githubusercontent.com/66200713/147728328-69685af1-d107-4640-ada6-be3f404a2e35.png)
 ![Uploading 147728204-0457954a-be1e-45b5-8423-ba0c951cd09b.png…]()
 
 ##ER-Diagram
-
+![Screenshot 2021-12-30 121516](https://user-images.githubusercontent.com/66200713/147728288-23ef962e-d742-4d52-8d50-9d4997d896d0.png)
 
 ## Authors
 

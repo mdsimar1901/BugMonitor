@@ -44,7 +44,7 @@ View Bug status
 
 
 ## Screenshots
-
+![Uploading 147728204-0457954a-be1e-45b5-8423-ba0c951cd09b.png…]()
 
 
 ## Authors
